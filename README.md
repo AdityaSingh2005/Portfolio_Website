@@ -1,2 +1,2 @@
 # Portfolio_Website
-I developed this portfolio using HTML and CSS
+This is the first Website I learned making from Freecodecamp, the Techstack I used is basic HTML & CSS, Looking forward to create more exiting websites.
